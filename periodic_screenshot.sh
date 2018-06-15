@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Requirement: "sudo apt-get install scrot"
+
 SCREENSHOT_PREFIX="ss"
 OUTPUT_DIR="output"
 
